@@ -2,52 +2,30 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Systems-Operational-3b82f6?style=flat-square&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/UAV-PX4_Autopilot-6366f1?style=flat-square&logo=dji&logoColor=white" />
+  <img src="https://img.shields.io/badge/UAV-PX4_Autopilot-6366f1?style=flat-square&logo=px4autosteering&logoColor=white" />
 </p>
 
 ### 🚀 About Me
-- 전자공학을 전공하며 웹 서비스 개발, 서버 운영, 그리고 드론 시스템에 관심을 갖고 공부하고 있습니다.
-- SvelteKit, Astro, Node.js를 활용해 실제 서비스를 직접 배포하고 운영한 경험이 있습니다.
-- Docker, Nginx, Cloudflare 등을 이용해 개인 서버 인프라를 구축하고, 웹 서비스도 직접 관리합니다.
-- PX4와 ArduPilot을 기반으로 드론을 세팅하고, 실제로 운용할 수 있습니다.
+- **전자공학 전공**을 기반으로 웹 서비스 개발, 서버 운영, 드론 시스템에 관심을 두고 공부하고 있습니다.
+- **SvelteKit, Astro, Node.js**를 활용해 실제 서비스를 직접 배포하고 운영해본 경험이 있습니다.
+- **Docker, Nginx, Cloudflare** 등을 사용해 개인 서버 인프라를 직접 구성하고 웹 서비스를 관리합니다.
+- **PX4 / ArduPilot** 기반의 드론 세팅과 실전 운용이 가능합니다.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
 ### 🌌 Projects
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%" style="border: 1px solid #1f2937; border-radius: 12px; padding: 15px;">
-      <a href="https://snap.slner.app" target="_blank">
-        <b style="color: #00b894; font-size: 1.1em;">Snap</b>
-      <br>
-      <small>한강 온도, 라이브 영상, 명언, 날씨, 급식 정보 등 실시간 생활 데이터 대시보드</small>
-      <br>
-      <img src="https://img.shields.io/badge/API-Integration-3b82f6?style=flat-square" />
-      <img src="https://img.shields.io/badge/Status-🟢 Live-00b894?style=flat-square" />
-      </a>
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #1f2937; border-radius: 12px; padding: 15px;">
-      <a href="https://lifti.slner.app" target="_blank">
-        <b style="color: #3b82f6; font-size: 1.1em;">Lifti (Beta)</b>
-      <br>
-      <small>MMR 데이터를 활용한 롤 내전 팀 밸런스 알고리즘 서비스</small>
-      <br>
-      <img src="https://img.shields.io/badge/Data-Processing-6366f1?style=flat-square" />
-      <img src="https://img.shields.io/badge/Status-🟢 Live-00b894?style=flat-square" />
-      </a>
-    </td>
-    <td align="center" width="33%" style="border: 1px solid #1f2937; border-radius: 12px; padding: 15px;">
-      <a href="https://slner.app" target="_blank">
-        <b style="color: #6366f1; font-size: 1.1em;">slner.app</b>
-      <br>
-      <small>인사말 타이핑 효과가 적용된 미니멀 랜딩 페이지</small>
-      <br>
-      <img src="https://img.shields.io/badge/UI-Minimal-94a3b8?style=flat-square" />
-      <img src="https://img.shields.io/badge/Status-🟡 Dev-eab308?style=flat-square" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+#### 🟢 [Snap](https://snap.slner.app)
+> 한강 온도 · 라이브 영상 · 명언 · 날씨 · 학교 급식 등 실시간 데이터 대시보드
+- <img src="https://img.shields.io/badge/API-Integration-3b82f6?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+
+#### 🔵 [Lifti (Beta)](https://lifti.slner.app)
+> MMR 데이터를 활용한 롤 내전 팀 밸런스 알고리즘 서비스
+- <img src="https://img.shields.io/badge/Data-Processing-6366f1?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+
+#### 🟡 [slner.app](https://slner.app)
+> 인사말 타이핑 효과가 적용된 미니멀 랜딩 페이지
+- <img src="https://img.shields.io/badge/UI-Minimal-94a3b8?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Dev-eab308?style=flat-square" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
