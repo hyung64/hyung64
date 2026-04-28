@@ -6,10 +6,10 @@
 </p>
 
 ### 🚀 About Me
-- **전자공학 전공**을 기반으로 웹 서비스 개발, 서버 운영, 드론 시스템에 관심을 두고 공부하고 있습니다.
-- **SvelteKit, Astro, Node.js**를 활용해 실제로 돌아가는 서비스를 직접 배포하고 운영해본 경험이 있습니다.
-- **Docker, Nginx, Cloudflare** 등을 사용해 개인 서버 인프라를 직접 구성하고 웹 서비스를 관리합니다.
-- **PX4 / ArduPilot** 기반의 드론 세팅과 실전 운용이 가능합니다.
+- 전자공학을 전공하며 웹 서비스 개발, 서버 운영, 그리고 드론 시스템에 관심을 갖고 공부하고 있습니다.
+- SvelteKit, Astro, Node.js를 활용해 실제 서비스를 직접 배포하고 운영한 경험이 있습니다.
+- Docker, Nginx, Cloudflare 등을 이용해 개인 서버 인프라를 구축하고, 웹 서비스도 직접 관리합니다.
+- PX4와 ArduPilot을 기반으로 드론을 세팅하고, 실제로 운용할 수 있습니다.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
