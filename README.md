@@ -86,5 +86,5 @@
 - **Email:** support@slner.app
 
 <p align="right">
-  <i>Last updated: 2026. 04. 28</i>
+  <i>Last updated: 2026. 04. 29</i>
 </p>
