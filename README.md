@@ -24,8 +24,8 @@
 - <img src="https://img.shields.io/badge/Data-Processing-6366f1?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
 
 #### 🟡 [slner.app](https://slner.app)
-> 인사말 타이핑 효과가 적용된 미니멀 랜딩 페이지
-- <img src="https://img.shields.io/badge/UI-Minimal-94a3b8?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Dev-eab308?style=flat-square" />
+> 다국어로 인사해주는 미니멀 랜딩 페이지
+- <img src="https://img.shields.io/badge/UI-Minimal-94a3b8?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
