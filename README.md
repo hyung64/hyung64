@@ -1,90 +1,136 @@
-# ⚡️ Hello, I'm **Fledo**!
+# ⚡️ Hello, I'm **Fledo**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Systems-Operational-3b82f6?style=flat-square&logo=statuspage&logoColor=white" />
-  <img src="https://img.shields.io/badge/UAV-PX4_Autopilot-6366f1?style=flat-square&logo=px4autosteering&logoColor=white" />
+<img src="https://img.shields.io/badge/Systems-Online-0ea5e9?style=flat-square&logo=statuspage&logoColor=white" />
+<img src="https://img.shields.io/badge/UAV-PX4%20%2F%20ArduPilot-0284c7?style=flat-square&logo=airplayvideo&logoColor=white" />
+<img src="https://img.shields.io/badge/Infra-Self%20Hosted-334155?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-### 🚀 About Me
-- **전자공학 전공**을 기반으로 웹 서비스 개발, 서버 운영, 드론 시스템에 관심을 두고 공부하고 있습니다.
-- **SvelteKit, Astro, Node.js**를 활용해 실제 서비스를 직접 배포하고 운영해본 경험이 있습니다.
-- **Docker, Nginx, Cloudflare** 등을 사용해 개인 서버 인프라를 직접 구성하고 웹 서비스를 관리합니다.
-- **PX4 / ArduPilot** 기반의 드론 세팅과 실전 운용이 가능합니다.
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+## 🚀 About Me
 
-### 🌌 Projects
+전자공학을 기반으로 **웹 서비스 개발, 서버 운영, 드론 시스템**을 공부하고 있습니다.
 
-#### 🟢 [Snap](https://snap.slner.app)
-> 한강 온도 · 라이브 영상 · 명언 · 날씨 · 학교 급식 등 실시간 데이터 대시보드
-- <img src="https://img.shields.io/badge/API-Integration-3b82f6?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+- **SvelteKit, Astro, Nuxt.js, Node.js** 기반의 웹 서비스를 직접 개발하고 배포합니다.
+- **Docker, Nginx, Cloudflare, Linux** 환경에서 개인 서버 인프라를 운영합니다.
+- **PostgreSQL, MySQL, Redis**를 활용한 서비스 구조와 데이터 처리를 다룹니다.
+- **PX4 / ArduPilot** 기반 드론 세팅과 실전 운용 경험이 있습니다.
+- 단순한 예제보다, 실제로 접속 가능하고 운영되는 서비스를 만드는 것을 좋아합니다.
 
-#### 🔵 [Lifti (Beta)](https://lifti.slner.app)
-> MMR 데이터를 활용한 롤 내전 팀 밸런스 알고리즘 서비스
-- <img src="https://img.shields.io/badge/Data-Processing-6366f1?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+---
 
-#### 🟡 [slner.app](https://slner.app)
-> 다국어로 인사해주는 미니멀 랜딩 페이지
-- <img src="https://img.shields.io/badge/UI-Minimal-94a3b8?style=flat-square" /> <img src="https://img.shields.io/badge/Status-Live-00b894?style=flat-square" />
+## 🌌 Projects
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+| Project | Description | Status |
+|---|---|---|
+| **[slner.app](https://slner.app)** | 다국어로 인사해주는 미니멀 랜딩 페이지 | <img src="https://status.slner.app/badge/slner-service-01/status" /> |
+| **[Snap](https://snap.slner.app)** | 한강 온도 · 라이브 영상 · 명언 · 날씨 · 학교 급식 등 실시간 데이터 대시보드 | <img src="https://status.slner.app/badge/slner-service-02/status" /> |
+| **[Lifti Beta](https://lifti.slner.app)** | MMR 데이터를 활용한 롤 내전 팀 밸런스 알고리즘 서비스 | <img src="https://status.slner.app/badge/slner-service-03/status" /> |
+| **[EXIF](https://exif.slner.app)** | 사진 EXIF 메타데이터를 추출하고 촬영 정보를 이미지에 삽입하는 도구 | <img src="https://status.slner.app/badge/slner-service-04/status" /> |
 
-### 🛠 Tech Stack
+---
 
-#### 🌐 Frontend & Frameworks
+## 🛠 Tech Stack
+
+### 🌐 Frontend
+
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=111827" />
+  <img src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-7c3aed?style=for-the-badge&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/SvelteKit-f97316?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-10b981?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & Infra
+### ⚙️ Backend & Runtime
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integration-2563eb?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Service-334155?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-#### ☁️ Cloud & Database
+### 🗄 Database & Storage
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2563eb?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0f766e?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-dc2626?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Object_Storage-475569?style=for-the-badge&logo=googlecloudstorage&logoColor=white" />
 </p>
 
-#### 🔧 Hardware & UAV
+### 🧱 Infra & DevOps
+
 <p align="left">
-  <img src="https://img.shields.io/badge/PX4_Autopilot-6366f1?style=for-the-badge&logo=px4autosteering&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orange_Pi-FF6600?style=for-the-badge&logo=arm&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-ea580c?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2563eb?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-1d4ed8?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-16a34a?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-f97316?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portainer-0891b2?style=for-the-badge&logo=portainer&logoColor=white" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
+### 🔧 Hardware & UAV
 
-### 📊 GitHub Metrics
+<p align="left">
+  <img src="https://img.shields.io/badge/PX4_Autopilot-4f46e5?style=for-the-badge&logo=airplayvideo&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArduPilot-2563eb?style=for-the-badge&logo=drone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-be123c?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orange_Pi-f97316?style=for-the-badge&logo=arm&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1d4ed8?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyung64&theme=github_dark" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hyung64&theme=github_dark&utcOffset=9" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=hyung64&theme=github-dark-blue&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=94A3B8" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=hyung64&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=6&margin-h=6" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyung64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f1115" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyung64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1115" width="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyung64&theme=github-dark&bg_color=0D1117&hide_border=true&line=38BDF8&point=60A5FA&color=E5E7EB&title_color=E5E7EB&area=true&area_color=1E293B&height=230&radius=8" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyung64&theme=tokyonight&bg_color=0f1115&hide_border=true&color=3b82f6" width="100%" />
+---
+
+## 📫 Contact
+
+<p align="left">
+  <a href="https://github.com/hyung64">
+    <img src="https://img.shields.io/badge/GitHub-hyung64-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:support@slner.app">
+    <img src="https://img.shields.io/badge/Email-support@slner.app-2563eb?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://slner.app">
+    <img src="https://img.shields.io/badge/Web-sliner.app-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
-
-### 📫 Contact
-- **GitHub:** [hyung64](https://github.com/hyung64)
-- **Email:** support@slner.app
+---
 
 <p align="right">
-  <i>Last updated: 2026. 04. 29</i>
+  <sub>Last updated: 2026. 05. 05</sub>
 </p>
